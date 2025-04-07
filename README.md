@@ -23,3 +23,18 @@ Wealthy individuals often prefer debt, but how do banks continue to make money a
 - **Kaggle-Prosper Loan Dataset**
   - 113,937 rows
   - 81 columns
+
+### Project Overview: Jesse and Cece's Analysis at FinScope Analytics
+
+Jesse and Cece, senior data analysts at FinScope Analytics, were commissioned by ProsperLoans Bank to assess its loan portfolio, aiming to identify growth opportunities while mitigating risks.
+
+#### Understanding Disbursement Trends
+Their analysis begins with loan disbursement trends to determine if loan volumes align with market demand or require adjustments. By identifying seasonal patterns and peak periods, they aim to optimize lending strategies for maximum profitability.
+
+#### Assessing Repayment Performance
+Next, Jesse and Cece evaluate repayment trends to determine whether borrowers are meeting their obligations. This analysis will help uncover potential repayment gaps and inform strategies for improving collection rates.
+
+#### Balancing Profitability and Risk
+The team then examines profitability versus loss rates to ensure that high-risk borrowers are not eroding overall profits. Jesse suspects that certain borrower segments may be contributing disproportionately to losses, necessitating stricter lending criteria or risk-adjusted interest rates.
+
+By leveraging SQL for data processing and Tableau for visualization, Jesse and Cece develop actionable insights to help ProsperLoans optimize loan disbursement, enhance repayment strategies, and strengthen financial sustainability.
